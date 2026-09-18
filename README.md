@@ -1,3 +1,7 @@
+> **Fork and attribution notice:** This is a fork of [diwas7777/CodesHub](https://github.com/diwas7777/CodesHub), not a collection authored solely by this fork's owner. For the specific contribution, a runnable C++ binary-search example, and the scope of its tests, see [FORK_NOTES.md](FORK_NOTES.md). The inherited README below describes the upstream project's **2022 Hacktoberfest campaign**; its historical participation advice should not be treated as current guidance.
+
+---
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=250&height=80&lines=CodesHub" />
 <p><i>This open source project is made to help students find codes in different languages easily for every usecase.</i></p>
@@ -54,7 +58,7 @@
 
 | Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | Forks                                                                                                                                                             |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ CodesHub Repository for Hacktoberfest-2022](https://github.com/diwas777777/CodesHub)         | [![GitHub issues](https://img.shields.io/github/issues/diwas777777/CodesHub?color=pink&logo=github)](https://github.com/diwas777777/CodesHub/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/diwas777777/CodesHub)](https://github.com/diwas777777/CodesHub/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/diwas777777/CodesHub?logo=git)](https://github.com/diwas777777/CodesHub/fork)                         |
+| [ CodesHub Repository for Hacktoberfest-2022](https://github.com/diwas777777/CodesHub)         | [![GitHub issues](https://img.shields.io/github/issues/diwas777777/CodesHub?color=pink&logo=github)](https://github.com/diwas777777/CodesHub/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/diwas777777/CodesHub)](https://github.com/diwas777777/CodesHub/pulls)         | [![GitHub forks](https://img.shields.io/github/forks/diwas777777/CodesHub)](https://github.com/diwas777777/CodesHub/fork)                         |
 
 ## Rules
 
@@ -66,7 +70,7 @@
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- If a maintainer reports behavior that's not in line with the project's code of conduct, you will be ineligible to participate.
 - To get a t-shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, only the first 40,000 participants will recieve swags.
 ---
