@@ -1,0 +1,17 @@
+name: Contributed binary-search example
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile demo and tests
+        run: |
+          g++ -std=c++17 -Wall -Wextra -Wpedantic -Werror 'C++/normal_binary_search.cpp' -o /tmp/binary-search-demo
+          g++ -std=c++17 -Wall -Wextra -Wpedantic -Werror tests/test_normal_binary_search.cpp -o /tmp/binary-search-tests
+      - name: Run tests
+        run: |
+          /tmp/binary-search-tests
+          test "$(/tmp/binary-search-demo)" = 'Target 7 found at index 3'

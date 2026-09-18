@@ -1,3 +1,7 @@
+> **Fork and attribution notice:** This is a fork of [diwas7777/CodesHub](https://github.com/diwas7777/CodesHub), not a collection authored solely by this fork's owner. For the specific contribution, a runnable C++ binary-search example, and the scope of its tests, see [FORK_NOTES.md](FORK_NOTES.md). The inherited README below describes the upstream project's **2022 Hacktoberfest campaign**; its historical participation advice should not be treated as current guidance.
+
+---
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=250&height=80&lines=CodesHub" />
 <p><i>This open source project is made to help students find codes in different languages easily for every usecase.</i></p>

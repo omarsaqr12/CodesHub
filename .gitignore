@@ -1,0 +1,6 @@
+# Prevent new local Visual Studio state from being committed.
+.vs/
+*.user
+*.suo
+*.obj
+*.exe
